@@ -36,7 +36,7 @@
 
 <p float="left" align="center">
  <img src=https://i.ibb.co/ZMx9cFs/Net-1.png width="40%" />
- <img src=[https://https://i.ibb.co/Jn9xCvS/Net.png](https://i.ibb.co/Jn9xCvS/Net.png) width="40%" />
+ <img src=https://i.ibb.co/Jn9xCvS/Net.png](https://i.ibb.co/Jn9xCvS/Net.png) width="40%" />
  
 </p> 
 

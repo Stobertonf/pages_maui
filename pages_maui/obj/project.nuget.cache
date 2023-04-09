@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rWz0G9CULiok5H+MCs9ifxS3sRIRaDn2OzXfwP5Lwe3mK6Wp25VbcVuKmIeu3rZmUgorsn7JLMDc4ftQv5f9Lw==",
+  "dgSpecHash": "d7ggPvNB+Gi2ICgIgYfVx3gcW042NeP3/dnYmdsprTkg+E8bPfIDu7fVECNN4m96f+qwA2qpVzlchTRbV5IStg==",
   "success": true,
-  "projectFilePath": "C:\\Program Files\\Ajuda\\Cursos\\Maui\\Udemy\\pages_maui\\pages_maui\\pages_maui.csproj",
+  "projectFilePath": "C:\\Program Files\\Ajuda\\Cursos\\Maui\\Udemy\\Projetos\\Projetos\\pages_maui\\pages_maui\\pages_maui.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tober\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\tober\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",

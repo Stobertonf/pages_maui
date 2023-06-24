@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Program Files\\Ajuda\\Cursos\\Maui\\Udemy\\pages_maui\\pages_maui\\pages_maui.csproj": {}
+    "C:\\Program Files\\Ajuda\\Cursos\\Maui\\Udemy\\Projetos\\Projetos\\pages_maui\\pages_maui\\pages_maui.csproj": {}
   },
   "projects": {
-    "C:\\Program Files\\Ajuda\\Cursos\\Maui\\Udemy\\pages_maui\\pages_maui\\pages_maui.csproj": {
+    "C:\\Program Files\\Ajuda\\Cursos\\Maui\\Udemy\\Projetos\\Projetos\\pages_maui\\pages_maui\\pages_maui.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Program Files\\Ajuda\\Cursos\\Maui\\Udemy\\pages_maui\\pages_maui\\pages_maui.csproj",
+        "projectUniqueName": "C:\\Program Files\\Ajuda\\Cursos\\Maui\\Udemy\\Projetos\\Projetos\\pages_maui\\pages_maui\\pages_maui.csproj",
         "projectName": "pages_maui",
-        "projectPath": "C:\\Program Files\\Ajuda\\Cursos\\Maui\\Udemy\\pages_maui\\pages_maui\\pages_maui.csproj",
+        "projectPath": "C:\\Program Files\\Ajuda\\Cursos\\Maui\\Udemy\\Projetos\\Projetos\\pages_maui\\pages_maui\\pages_maui.csproj",
         "packagesPath": "C:\\Users\\tober\\.nuget\\packages\\",
-        "outputPath": "C:\\Program Files\\Ajuda\\Cursos\\Maui\\Udemy\\pages_maui\\pages_maui\\obj\\",
+        "outputPath": "C:\\Program Files\\Ajuda\\Cursos\\Maui\\Udemy\\Projetos\\Projetos\\pages_maui\\pages_maui\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

@@ -30,8 +30,7 @@
 
 ## Prazo
 
-⚡ Este projeto foi iniciado no dia 05/02/2023, porém, ainda está sendo desenvolvido. No entanto, em breve espero trazer muitas novidades para este repositório !!!
-
+⚡ Este projeto foi finalizado no dia 24/06/2023. Agora irei continuar o curso.
 ## Imagens
 
 
